@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```
 1. Add code at the beginning of your project.
 2. Set the url in line 4 to the location where you store user HWIDs (e.g. a pastebin).
-3. Done.
+3. Complete.
