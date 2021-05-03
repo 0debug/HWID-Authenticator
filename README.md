@@ -3,6 +3,7 @@ Simple tool for your program
 
 ## Information
 Easy to understand and use
+
 Example: Add the HWID Authenticator to your paid program so unauthorized users cannot use the program.
 
 ## Usage
