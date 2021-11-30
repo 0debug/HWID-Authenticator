@@ -12,7 +12,7 @@ try:
         time.sleep(10)
         os._exit()
 except:
-    print('[ERROR] Failed to fetch HWID')
+    print('[ERROR] Failed to fetch HWID') 
     time.sleep(10) 
     os._exit() 
     
